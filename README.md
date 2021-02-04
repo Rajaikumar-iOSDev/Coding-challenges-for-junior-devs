@@ -5,6 +5,8 @@ I’ve compiled some questions I faced and some of the questions I asked. The ch
 1. Factorial
 2. Palindrome
 
+More challenges will be added later.
+
 # 📄Tutorial in Medium
 
 Click the Medium badge to read the tutorial.
