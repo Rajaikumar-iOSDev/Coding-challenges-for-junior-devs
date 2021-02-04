@@ -1,6 +1,6 @@
 //
 //  main.cpp
-//  Junior dev - Coding interview Questions & Answers - Part 1
+//  Junior dev - Coding interview Questions & Answers
 //
 //  Created by Rajai kumar on 04/02/21.
 //
