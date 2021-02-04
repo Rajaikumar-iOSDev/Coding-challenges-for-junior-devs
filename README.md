@@ -5,7 +5,9 @@ I’ve compiled some questions I faced and some of the questions I asked. The ch
 1. Factorial
 2. Palindrome
 
-# 📄Tutorial in medium
+# 📄Tutorial in Medium
+
+Click the Medium badge to read the tutorial.
 
 <a href="https://https://rajaikumar.medium.com/junior-dev-coding-interview-questions-answers-part-1-4bfd9e8e9374"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=50></a> 
 
