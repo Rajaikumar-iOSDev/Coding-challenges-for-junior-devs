@@ -11,7 +11,7 @@ More challenges will be added later.
 
 Click the Medium badge to read the tutorial.
 
-<a href="https://https://rajaikumar.medium.com/junior-dev-coding-interview-questions-answers-part-1-4bfd9e8e9374"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=50></a> 
+<a href="https://rajaikumar.medium.com/junior-dev-coding-interview-questions-answers-part-1-4bfd9e8e9374"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=50></a> 
 
 # 👨‍💻 Author 
 [Rajai kumar](https://github.com/Rajaikumar-iOSDev)
