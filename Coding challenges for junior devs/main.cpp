@@ -54,7 +54,7 @@ static void handlePalindrome() {
 // MARK:- Driver functions
 static void handleChoice() {
     int choice;
-    cout<<"Welcome to the 'Junior dev - Coding interview Questions & Answers - Part 1' \n\n Please choosean option to proceed:\n\n Press '1' for Factorial \n Press '2' for Palindrome\n Press any other number to exit\n";
+    cout<<"Welcome to the 'Junior dev - Coding interview Questions & Answers - Part 1' \n\n Please choose an option to proceed:\n\n Press '1' for Factorial \n Press '2' for Palindrome\n Press any other number to exit\n";
     cin>>choice;
 
     switch (choice) {
