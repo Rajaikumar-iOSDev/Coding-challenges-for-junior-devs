@@ -115,6 +115,7 @@ static void handleFindtheBiggestAndSmallestNumber(){
 
     cout<<"Biggest number in the given array is : "<<findBiggest(array, length)<<"\n";
     cout<<"Smallest number in the given array is : "<<findSmallest(array, length)<<"\n";
+    handleChoice();
 }
 // MARK:- Driver functions
 static void handleChoice() {
