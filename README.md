@@ -4,6 +4,8 @@ I’ve compiled some questions I faced and some of the questions I asked. The ch
 # 🧑🏽‍💻Challenges present:
 1. Factorial
 2. Palindrome
+3. Maximum sum of an hourglass.
+4. Find the biggest and smallest number in the array
 
 More challenges will be added later.
 
